@@ -9,3 +9,5 @@ We provide here four sets of correlation function measurements for z = 2 and 3 g
 In the `measurement.txt` files, the first rows are the mean separation between galaxies within each bin; the second rows and third rows are the monopole and quadrupole correlation functions, respectively. 
 
 Note that `z3_125_135` files are with bin size = 10 Mpc, instead of 5 Mpc as in the other datasets.
+
+We also provide a Jupyter notebook to demonstrate plots shown in [Pu et al. (2025)](https://doi.org/10.48550/arXiv.2410.02524). Please refer to the paper for detailed interpretations and discussions.
